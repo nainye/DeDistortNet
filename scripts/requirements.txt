@@ -1,0 +1,13 @@
+pandas
+pydicom
+SimpleITK
+numpy<2
+matplotlib
+scipy
+elasticdeform
+accelerate
+diffusers
+torchmetrics
+scikit-image
+transformers
+wandb
