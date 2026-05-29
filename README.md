@@ -102,10 +102,14 @@ Trained DeDistortNet weights (UNet, ControlNet, image encoder) can be downloaded
 ## Citation
 
 ```bibtex
-@article{dedistortnet2026,
+@article{na2026dual,
   title={Dual-conditioned diffusion model with anatomical guidance for geometric distortion correction in prostate MRI},
   author={Na, Inye and Miao, Qi and Kim, Jonghun and Sung, Kyunghyun and Park, Hyunjin},
   journal={European Radiology Experimental},
-  year={2026}
+  volume={10},
+  number={1},
+  pages={66},
+  year={2026},
+  publisher={Springer}
 }
 ```
