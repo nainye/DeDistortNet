@@ -1,7 +1,6 @@
 # DeDistortNet
 
-Geometric distortion correction in prostate DWI using a dual-conditioned diffusion model with T2-weighted anatomical guidance.
-
+🔥 Official implementation of "Dual-conditioned diffusion model with anatomical guidance for geometric distortion correction in prostate MRI" (European Radiology Experimental)
 ![Overview](img/overview.jpg)
 
 ## Method
