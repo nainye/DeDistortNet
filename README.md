@@ -1,6 +1,7 @@
 # DeDistortNet
 
 🔥 Official implementation of "Dual-conditioned diffusion model with anatomical guidance for geometric distortion correction in prostate MRI" (European Radiology Experimental)
+
 ![Overview](img/overview.jpg)
 
 ## Method
